@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -64,6 +63,3 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 # Laravel-8-Online-Shopping-Website-Backend-
 >>>>>>> ea9d49b676e2f7aaafed69f2da5e3f39361a6836
-=======
-# BE-Laravel-8-Online-Shopping-Website
->>>>>>> 99a7bd5523d24aab59e805f0ad2beb607ea0a573
