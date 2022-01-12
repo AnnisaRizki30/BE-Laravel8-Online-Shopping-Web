@@ -1,69 +1,10 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Fullstack-Laravel-Nuxt-Js-Online-Shopping-Website
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+Build an online shop website with an integrated payment gateway Midtrans Snap Pay and RajaOngkir to get real-time and accurate shipping costs. Implementation of JWT for the authentication process in Rest API. This website consists of product search filter features, discount calculation, delivery courier selection, delivery estimate selection, shipping cost calculation, payment method selection, review features. The review feature will appear when the order payment status is successful. Website design is made using HTML, CSS, and Bootstrap with an attractive minimalist and responsive design. BE website development is made using the Laravel Framework as a web service in the form of Rest API. FE website development is made with the Nuxt.js framework and vuex whose role is to manage and use the Rest API.
 
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-=======
-# Laravel-8-Online-Shopping-Website-Backend-
->>>>>>> ea9d49b676e2f7aaafed69f2da5e3f39361a6836
-=======
-# BE-Laravel-8-Online-Shopping-Website
->>>>>>> 99a7bd5523d24aab59e805f0ad2beb607ea0a573
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Home.PNG?raw=true"> Home Page |<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Studio.PNG?raw=true"> About Us Page |<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Footer.PNG?raw=true"> Footer Page |
+|<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Login.PNG?raw=true"> Login Page |<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Register.PNG?raw=true"> Register Page |<img width="1604" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Products.PNG?raw=true"> Products Page | 
+|<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Product%20Detail.PNG?raw=true"> Product Detail |<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Product%20Detail%202.PNG?raw=true"> Product Related & Reviews |<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Product%20Search.PNG?raw=true"> Product Search| <img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Category%20Product.PNG?raw=true">  Category Page |<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Cart.PNG?raw=true"> Cart Page |<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Dashboard.PNG?raw=true"> Dashboard Customer Page |
+|<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Invoices.PNG?raw=true"> Invoices Page | <img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Detail%20Order.PNG?raw=true"> Detail Order Page |
